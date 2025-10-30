@@ -1,1 +1,3 @@
 new text file "one.txt" has been added to "three" folder successfully!
+
+another line of text in "one.txt".
